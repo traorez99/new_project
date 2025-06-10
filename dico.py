@@ -14,3 +14,4 @@ for direction, distance in distances.items():
         distance_max=distance
         direction_max= direction
 print(f'la zone la plus degagee : {direction_max}  ({distance_max}m)')
+print("hello")
